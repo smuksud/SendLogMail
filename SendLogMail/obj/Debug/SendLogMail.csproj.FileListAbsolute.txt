@@ -1,0 +1,6 @@
+c:\users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\bin\Debug\SendLogMail.exe.config
+c:\users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\bin\Debug\SendLogMail.exe
+c:\users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\bin\Debug\SendLogMail.pdb
+c:\users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\obj\Debug\SendLogMail.csprojResolveAssemblyReference.cache
+c:\users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\obj\Debug\SendLogMail.exe
+c:\users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\obj\Debug\SendLogMail.pdb

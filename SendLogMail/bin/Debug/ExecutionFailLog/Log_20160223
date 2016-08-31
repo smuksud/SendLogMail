@@ -1,0 +1,6 @@
+
+15:32:51 >> =================================== Start of Execution ======================================
+15:32:51 >> Reading File from: C:\Users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\bin\Debug\config.dat
+15:32:52 >> File Read Failed:
+15:32:52 >> Could not find file 'C:\Users\muksud\documents\visual studio 2015\Projects\SendLogMail\SendLogMail\bin\Debug\config.dat'.
+15:32:52 >> =================================== End of Execution ======================================
